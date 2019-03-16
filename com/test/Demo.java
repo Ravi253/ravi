@@ -7,6 +7,7 @@ class Demo
 	public static void main(String[] args) 
 	{
 		//added comment by ravi
+		// added another comment
         int a,b;
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter first positive Two digit number");
