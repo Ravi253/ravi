@@ -1,3 +1,4 @@
+package com.test;
 class  Solution1
 {
 		public int sumDigits(String s){
